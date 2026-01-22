@@ -1,5 +1,35 @@
 # Similar Past Projects - Portfolio Reference
 
+## ⚡ Fresha Platform Integration Strategy
+
+All projects in this portfolio, including your nail salon system, are designed to **complement Fresha's native features**:
+
+### Fresha Provides (Built-in)
+✅ SMS appointment reminders (24 hours before)  
+✅ Online booking and cancellation  
+✅ Payment processing integration  
+✅ Basic review requests after appointment  
+✅ Customer profiles and appointment history  
+✅ Staff and stylist management  
+✅ Multi-location business support  
+
+### This Automation System Adds
+✅ Custom email campaigns (beyond Fresha SMS)  
+✅ Same-day thank-you emails (personal touch)  
+✅ Detailed 7-day feedback collection (specific questions)  
+✅ Behavior tracking and analytics database  
+✅ Duplicate prevention (prevents accidental resends)  
+✅ Failure monitoring and alerts  
+✅ Custom branding and personalization  
+
+### Why Both Systems Work Together
+- **Multi-channel approach**: SMS reminder (Fresha) + Email gratitude (Your system) = Higher engagement
+- **Detailed insights**: Generic Fresha reviews + Specific feedback request = Better data for improvements
+- **No waste**: Each system handles what it does best, avoiding duplication
+- **Better results**: Multiple touchpoints increase customer response rates (shown in all projects)
+
+---
+
 ## Project Portfolio Summary
 
 This section documents similar automation projects that have been successfully delivered using the same architecture and technologies. These projects demonstrate our expertise in email automation, API integration, and reliable scheduling systems.

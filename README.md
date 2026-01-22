@@ -4,6 +4,26 @@
 
 This is a production-ready automation suite for nail salons using **Fresha** booking system. It includes two powerful email automation scripts designed for high reliability with built-in error handling, retry logic, and comprehensive logging.
 
+### 🤝 Fresha Integration
+
+This system **complements** Fresha's built-in features:
+
+**Fresha provides:**
+- ✓ SMS reminders 24 hours before appointment
+- ✓ Online booking and cancellation
+- ✓ Review request after appointment
+- ✓ Payment processing
+- ✓ Customer management
+
+**This system adds:**
+- ✓ Custom same-day thank-you emails
+- ✓ Detailed 7-day follow-up feedback
+- ✓ Email campaign tracking
+- ✓ Behavior analytics
+- ✓ Duplicate prevention
+
+**Combined benefit:** Multi-channel engagement (SMS + Email) significantly increases customer response rates and satisfaction.
+
 ### ✨ Features
 
 - ✅ **Same-day thank-you emails** at 12 PM and 7 PM

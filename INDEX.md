@@ -45,6 +45,7 @@
 ### 4. **SIMILAR_PROJECTS.md** - PORTFOLIO
    - 5 complete past project case studies
    - Beauty salon, dental, fitness, restaurant, dermatology
+   - Fresha integration strategy explained
    - Technology comparisons
    - Success metrics and expected outcomes
    - Client testimonials
@@ -52,7 +53,17 @@
    - Lessons applied to this project
    - **Read Time**: 20-30 minutes
 
-### 5. **PROJECT_COMPLETION.md** - SUMMARY
+### 5. **FRESHA_INTEGRATION.md** - INTEGRATION GUIDE (NEW)
+   - How your system works WITH Fresha (not against it)
+   - Timeline of customer communication
+   - What Fresha handles vs. your system
+   - Best practices and security
+   - Performance expectations
+   - Monitoring and troubleshooting
+   - Future enhancement ideas
+   - **Read Time**: 20-30 minutes
+
+### 6. **PROJECT_COMPLETION.md** - SUMMARY
    - Complete list of deliverables
    - Technical specifications
    - Quality assurance details
@@ -61,7 +72,7 @@
    - Final status and quality level
    - **Read Time**: 10-15 minutes
 
-### 6. **.env.example** - CONFIGURATION TEMPLATE
+### 7. **.env.example** - CONFIGURATION TEMPLATE
    - Template for all configuration variables
    - Detailed comments for each setting
    - Examples for different email providers
